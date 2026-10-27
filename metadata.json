@@ -1,0 +1,6 @@
+{
+  "name": "SimpControl",
+  "description": "Simplificador de Control Comercial para pequeños y medianos comercios. Gestión de catálogo, stock, ventas, reposiciones y balances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
